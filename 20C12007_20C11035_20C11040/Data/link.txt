@@ -1,0 +1,4 @@
+- Link bộ dữ liệu: https://drive.google.com/drive/folders/1QyNXGAuC2NFs566XfJPrNNHEJzek9HFw?usp=sharing
+- Trong đó:
+	* GTSRB.zip để train phân lớp biển báo
+	* data_train_yolo.zip dùng để train yolo để lấy bounding box của biển báo tốc độ.
